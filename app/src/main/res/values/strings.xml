@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Permission</string>
+    <string name="latitude">Latitude : %1$s</string>
+    <string name="longitude">Latitude : %1$s</string>
+</resources>
